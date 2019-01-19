@@ -1,0 +1,10 @@
+C:\Users\slikk\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\AnagramLib.deps.json
+C:\Users\slikk\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\AnagramLib.runtimeconfig.json
+C:\Users\slikk\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\AnagramLib.runtimeconfig.dev.json
+C:\Users\slikk\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\AnagramLib.csprojAssemblyReference.cache
+C:\Users\slikk\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\AnagramLib.csproj.CoreCompileInputs.cache
+C:\Users\slikk\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\AnagramLib.AssemblyInfo.cs
+C:\Users\slikk\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\AnagramLib.dll
+C:\Users\slikk\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard1.4\AnagramLib.pdb
+C:\Users\slikk\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\AnagramLib.dll
+C:\Users\slikk\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard1.4\AnagramLib.pdb
